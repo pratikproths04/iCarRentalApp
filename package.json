@@ -1,0 +1,14 @@
+{
+  "name": "iCarRentalApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "3.2.6",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  }
+}
